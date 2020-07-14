@@ -1,6 +1,2 @@
 # Face Attributes Detection using OpenCV
-It detect
-######  Face
-######  Eyes
-######  Smile
-using appropriate cascade Algorithm.
+It detect ######  Face, Eyes and Smile using appropriate cascade Algorithm.
